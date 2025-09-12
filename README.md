@@ -90,12 +90,12 @@ Our platform addresses the critical intersection of environmental consciousness 
 
 **GitHub Repository**: [https://github.com/KellenBode/PrivacyWasteRewards](https://github.com/KellenBode/PrivacyWasteRewards)
 
-## 📹 Demo Video
+## 📹 PrivacyWasteRewards.mp4
 
 
 *Experience the seamless integration of privacy technology with environmental action through our interactive demonstration.*
 
-## 📊 On-Chain Transaction Screenshots
+## 📊 On-Chain Transaction 
 
 
 
